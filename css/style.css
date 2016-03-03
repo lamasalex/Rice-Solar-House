@@ -12,3 +12,20 @@
 .icon-block .material-icons {
 	font-size: inherit;
 }
+
+.page-body {
+    width: 70%;
+    margin: auto;
+
+}
+
+.page-title {
+    color: #ff9800;
+    text-align: center;
+    margin-top: 1em;
+    margin-bottom: 1em;
+}
+
+.section-title {
+    color: #1a237e
+}
